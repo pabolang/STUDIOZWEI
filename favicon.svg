@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><metadata><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/"><rdf:Description><dc:creator>RealFaviconGenerator</dc:creator><dc:source>https://realfavicongenerator.net</dc:source></rdf:Description></rdf:RDF></metadata><style>
+    #light-icon {
+      display: inline;
+    }
+    #dark-icon {
+      display: none;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      #light-icon {
+        display: none;
+      }
+      #dark-icon {
+        display: inline;
+      }
+    }
+  </style><g id="light-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(3.8910505836575875,0,0,3.8910505836575875,0,1.945525291828801)"><svg xmlns="http://www.w3.org/2000/svg" width="257" height="256" viewBox="0 0 257 256" fill="none"><path d="M11.5 0.5C17.5751 0.5 22.5 5.42487 22.5 11.5C22.5 17.5751 17.5751 22.5 11.5 22.5C5.42487 22.5 0.500001 17.5751 0.5 11.5C0.5 5.42487 5.42487 0.5 11.5 0.5Z" fill="#10110F" stroke="#F4F3ED"></path><mask id="mask0_78_19" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="6" width="250" height="250">
+<rect x="9" y="8" width="246" height="246" fill="#A13636" stroke="black" stroke-width="4"></rect>
+</mask><g mask="url(#mask0_78_19)">
+<path d="M-43 -309.5C120.93 -309.5 253.5 -183.519 253.5 -28.5C253.5 126.519 120.93 252.5 -43 252.5C-206.93 252.5 -339.5 126.519 -339.5 -28.5C-339.5 -183.519 -206.93 -309.5 -43 -309.5Z" stroke="#2547FF" stroke-width="7"></path>
+</g><rect x="11" y="10" width="242" height="242" stroke="#10110F" stroke-width="8"></rect></svg></g></g></svg></g><g id="dark-icon"><svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000"><g><g transform="matrix(3.8910505836575875,0,0,3.8910505836575875,0,1.945525291828801)"><svg xmlns="http://www.w3.org/2000/svg" width="257" height="256" viewBox="0 0 257 256" fill="none"><path d="M11.5 0.5C17.5751 0.5 22.5 5.42487 22.5 11.5C22.5 17.5751 17.5751 22.5 11.5 22.5C5.42487 22.5 0.500001 17.5751 0.5 11.5C0.5 5.42487 5.42487 0.5 11.5 0.5Z" fill="#F4F3ED" stroke="#F4F3ED"></path><mask id="mask0_78_10" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="7" y="6" width="250" height="250">
+<rect x="9" y="8" width="246" height="246" fill="#A13636" stroke="black" stroke-width="4"></rect>
+</mask><g mask="url(#mask0_78_10)">
+<path d="M-43 -309.5C120.93 -309.5 253.5 -183.519 253.5 -28.5C253.5 126.519 120.93 252.5 -43 252.5C-206.93 252.5 -339.5 126.519 -339.5 -28.5C-339.5 -183.519 -206.93 -309.5 -43 -309.5Z" stroke="#2547FF" stroke-width="7"></path>
+</g><rect x="11" y="10" width="242" height="242" stroke="#F4F3ED" stroke-width="8"></rect></svg></g></g></svg></g></svg>
